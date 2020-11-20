@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+.logo{
+	width: 5em;
+	height: 5em;
+	
+}
+.head{
+	background-color: #514C4D;
+}
+.text1{
+	font-size: 1.3em; 
+	margin-left: 1.2em;
+	letter-spacing: 0.2em;
+}
+.dropdown-item{
+	font-weight: 600;
+	font-family: Segoe, Segoe UI, DejaVu Sans, Trebuchet MS, Verdana," sans-serif";
+}
+.hello
+{
+	color: white;
+	position: relative;
+	margin-top: 1.1em;
+	font-family: inherit;
+	letter-spacing: 0.05em;
+}
+.hello1{
+	background: rgb(0,0,0);
+	background: rgba(0,0,0,0.35);
+	text-align: justify;
+	color: white;
+	font-size: 1.3em;
+	padding-top: 0.4em;
+	font-family: inherit;
+	position: relative;
+	letter-spacing: 0.07em;
+}
