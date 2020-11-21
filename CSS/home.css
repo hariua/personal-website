@@ -6,6 +6,10 @@
 	height: 5em;
 	
 }
+.body{
+	margin-top: 1500em;
+	background-image:url(../Images/210891.jpg);
+}
 .head{
 background: rgb(20,20,19);
 background: linear-gradient(4deg, rgba(20,20,19,0.8127626050420168) 19%, rgba(7,69,221,0.9332107843137255) 90%);
@@ -68,6 +72,24 @@ background: linear-gradient(0deg, rgba(99,235,13,0.37298669467787116) 10%, rgba(
 .about-content{
 	font-family: 'Castoro', serif;
 	font-size: 1.4em;
-	letter-spacing: 0.02em;
+	letter-spacing: 0.01em;
 	font-weight:500;
+}
+
+.card-image1{
+	width: 100%;
+	height: 8em;
+ background: rgb(1,1,1,);
+background: linear-gradient(0deg, rgba(1,1,1,0.9) 42%, rgba(254,255,253,0.5) 50%, rgba(1,1,1,1) 61%);
+
+}
+.card{
+	background: rgba(255, 255, 255, 0.8);
+z-index: 2;
+	
+}
+.card-img-top{
+	text-align: center;
+	color: green;
+	font-size: 3em;
 }
