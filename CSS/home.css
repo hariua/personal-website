@@ -54,8 +54,8 @@ background: linear-gradient(4deg, rgba(20,20,19,0.8127626050420168) 19%, rgba(7,
 	height: 15em;
 }
 .about-section{
-	background: rgb(230,242,26);
-background: linear-gradient(35deg, rgba(230,242,26,0.9472163865546218) 16%, rgba(137,241,50,0.9612219887955182) 100%);
+	background: rgb(34,128,195);
+background: linear-gradient(180deg, rgba(34,128,195,1) 14%, rgba(163,45,253,1) 100%);
 }
 .about{
 	border-radius: 2em 0em;
@@ -76,13 +76,7 @@ background: linear-gradient(0deg, rgba(99,235,13,0.37298669467787116) 10%, rgba(
 	font-weight:500;
 }
 
-.card-image1{
-	width: 100%;
-	height: 8em;
- background: rgb(1,1,1,);
-background: linear-gradient(0deg, rgba(1,1,1,0.9) 42%, rgba(254,255,253,0.5) 50%, rgba(1,1,1,1) 61%);
 
-}
 .card{
 	background: rgba(255, 255, 255, 0.8);
 z-index: 2;
