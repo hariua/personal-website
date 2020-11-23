@@ -132,3 +132,16 @@ z-index: 2;
 .hobby-icon{
 	font-size: 3.5em;
 }
+.final{
+	background: rgb(17,17,18);
+background: linear-gradient(0deg, rgba(17,17,18,1) 0%, rgba(140,133,145,1) 67%);
+}
+.home-arrow{
+	font-size: 3.5em;
+}
+.contact-data{
+	font-family: Josefin Sans,sans-serif;
+	font-size: 1.7em;
+	letter-spacing: 0.05em;
+	font-weight: lighter;
+}
