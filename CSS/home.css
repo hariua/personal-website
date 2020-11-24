@@ -145,3 +145,6 @@ background: linear-gradient(0deg, rgba(17,17,18,1) 0%, rgba(140,133,145,1) 67%);
 	letter-spacing: 0.05em;
 	font-weight: lighter;
 }
+.body{
+	overflow: hidden;
+}
